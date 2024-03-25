@@ -1,5 +1,10 @@
 /* this is css  */
 
 .body {
-    
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    flex-direction: row;
 }
