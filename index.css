@@ -7,7 +7,16 @@
 }
 
 .header {
+    /* background-color: green; */
     display: flex;
     width: 100%;
     flex-direction: row;
+}
+
+.headerButton {
+
+}
+
+.headerButton:hover {
+    
 }
