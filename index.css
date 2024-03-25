@@ -14,9 +14,12 @@
 }
 
 .headerButton {
-
+    width: 100px;
+    margin: 10px;
+    border: 2px solid lightblue;
+    text-align: center;
 }
 
 .headerButton:hover {
-    
+
 }
