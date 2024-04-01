@@ -28,6 +28,15 @@
     background-color: aliceblue;
 }
 
+.centerStage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blue;
+}
+
 .centerTile {
-    
+    width: 80%;
+    height: 80vh;
+    border: 1px solid green;
 }
