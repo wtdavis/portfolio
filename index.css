@@ -40,3 +40,19 @@
     height: 80vh;
     border: 1px solid green;
 }
+
+.footer {
+    display: block;
+}
+
+.footerBlock0 {
+    background-color: red;    
+}
+
+.footerBlock1 {
+    background-color: blue;    
+}
+
+.footerBlock2 {
+    background-color: yellow;    
+}
